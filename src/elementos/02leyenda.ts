@@ -1,0 +1,8 @@
+console.log('')
+console.log('----------------- LEYENDA -----------------')
+console.log('')
+console.log('   🟢 DISPONIBLE')
+console.log('')            
+console.log('   🔴 NO DISPONIBLE')
+console.log('')            
+console.log('   🟡 RESERVADA')
